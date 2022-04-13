@@ -1,0 +1,5 @@
+db:
+  driver-class: com.oracle.driver.OracleDriver
+  url: jdbc:oracle:thin://@localhost:xe
+  user-name: oracle
+  password: oracle
