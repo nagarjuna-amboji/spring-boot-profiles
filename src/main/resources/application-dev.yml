@@ -1,0 +1,5 @@
+db:
+  url: jdbc:mysql://localhost:3306/mydbroot
+  password: root
+  driver-class: com.mysql.cj.Driver
+  user-name: root
